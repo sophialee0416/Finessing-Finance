@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">FinessingFinance</string>
-    <string name="title_home">Taxes</string>
-    <string name="title_dashboard">Loans</string>
-    <string name="title_notifications">Budgeting</string>
+    <string name="title_taxes">Taxes</string>
+    <string name="title_loans">Loans</string>
+    <string name="title_budgeting">Budgeting</string>
+    <string name="next">Next</string>
 </resources>
